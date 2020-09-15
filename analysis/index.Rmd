@@ -8,5 +8,5 @@ editor_options:
   chunk_output_type: console
 ---
 * [Teeth growth analysis](teeth.html)
-
+* [Clayton Seitz](https://cwseitz.github.io/qBio6-projects/)
 Welcome to my research website.
