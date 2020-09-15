@@ -7,5 +7,6 @@ output:
 editor_options:
   chunk_output_type: console
 ---
+* [Teeth growth analysis](teeth.html)
 
 Welcome to my research website.
