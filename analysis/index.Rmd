@@ -8,7 +8,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-! [Spinosaurus](assets/spinosaurus.png)
+![Spinosaurus](1.png)
 
 
 * [Teeth growth analysis](teeth.html)
