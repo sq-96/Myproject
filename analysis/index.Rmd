@@ -7,8 +7,11 @@ output:
 editor_options:
   chunk_output_type: console
 ---
+
+! [Spinosaurus](assets/spinosaurus.png)
+
+
 * [Teeth growth analysis](teeth.html)
 * [Clayton Seitz](https://cwseitz.github.io/qBio6-projects/)
-* [Spinosaurus](assets/spinosaurus.png)
 
 Welcome to my research website.
