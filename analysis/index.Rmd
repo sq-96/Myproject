@@ -9,5 +9,6 @@ editor_options:
 ---
 * [Teeth growth analysis](teeth.html)
 * [Clayton Seitz](https://cwseitz.github.io/qBio6-projects/)
+* [Spinosaurus](assets/spinosaurus.png)
 
 Welcome to my research website.
